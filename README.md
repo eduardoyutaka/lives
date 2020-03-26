@@ -1,1 +1,5 @@
-# lives
+# Lives de Programação da Quarentena
+
+- Cada live possui o vídeo, os slides e os exercícios do dia.
+
+1. [Live 01](https://github.com/eduardoyutaka/lives/blob/master/live01.md)
