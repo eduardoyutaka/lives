@@ -6,7 +6,7 @@
 
 ## Estrutura de um programa C++
 
-```c++
+```C++
 // meu primeiro programa em C++
 #include <iostream>
 
@@ -42,18 +42,19 @@ int main() {
 > É possível realizar operações nas variáveis para modificar seus valores.
 
 ```C++
+// idade.cpp
 #include <iostream>
 
 int main() {
-  int idade = 26;
+	int idade = 26;
 
-  std::cout << "Esse ano eu fiz ";
-  std::cout << idade;
-  std::cout << " anos";
+	std::cout << "Esse ano eu fiz ";
+	std::cout << idade;
+	std::cout << " anos" << std::endl;
 
-  idade = 27;
+	idade = 27;
 
-  std::cout << "Ano que vem eu vou ter" << idade << " anos";
+	std::cout << "Ano que vem eu vou ter " << idade << " anos";
 }
 ```
 
