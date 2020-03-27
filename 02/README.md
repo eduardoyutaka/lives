@@ -16,10 +16,10 @@ int main() {
 
 #### `#include <iostream>`
 > Linhas que iniciam com `#` são diretivas para o pré-processador incluir códigos específicos antes da compilação.
-> Nesse caso, inclui-se o iostream para poder realizar operações de input e output.
+> Nesse caso, inclui-se o `iostream` para poder realizar operações de input e output.
 
 #### `int main() {`
-> Todo programa C++ tem um ponto de início que conveniou-se ser a função `main`.
+> Todo programa C++ tem um ponto de início que convencionou-se ser a função `main`.
 > Funções são agrupamentos de código que podem ser chamados por um nome, nesse caso o nosso programa inteiro é apenas a função `main`.
 
 #### `std::cout << "Hello World!";`
