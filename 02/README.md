@@ -1,4 +1,10 @@
-## Estrutura de um programa
+## Objetivos
+
+- Conhecer a estrutura de um programa C++
+- Introdução à tipos e variáveis
+- Realizar operações de input e output em um programa
+
+## Estrutura de um programa C++
 
 ```c++
 // meu primeiro programa em C++
