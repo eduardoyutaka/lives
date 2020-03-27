@@ -4,6 +4,10 @@
 - Introdução à tipos e variáveis
 - Realizar operações de input e output em um programa
 
+#### Link da live 27/03/2020
+
+- https://www.twitch.tv/videos/576865330
+
 ## Estrutura de um programa C++
 
 ```C++
