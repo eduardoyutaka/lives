@@ -147,7 +147,7 @@ O paradigma de programação estruturado deriva do teorema do programa estrutura
 - Execução do código de acordo com o value de uma expressão booleana (verdadeiro/falso)
 - Execução repetida do código enquanto uma expressão booleana for verdadeira (iteração)
 
-#### _if statement_
+#### _Statement_ de seleção (if e else)
 
 O _if statement_ executa uma bifurcação do código caso a condição avalie como verdadeira (true).
 Ele pode ser acompanhado por uma cláusula _else_ contendo o código a ser executado caso a condição avalie como false (false).
@@ -169,6 +169,48 @@ int main() {
 }
 ```
 
-#### _while statement_
+#### _Statements_ de iteração (laços)
 
-O _while statement_ 
+O laço _while_ permite a repetição de um bloco de codigo enquanto uma condição for verdadeira.
+
+```C++
+// while.cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int x = 0;
+
+  while (x <= 10) {
+    cout << x << endl;
+    x++;
+  }
+
+  cout << "lá vou eu!" << endl;
+}
+```
+
+> Para sair do laço, é necessário tornar a condição verificada falsa.
+
+O laço _for_ permite facilmente a repetição de um bloco de código um número de vezes pré-determinado.
+
+```C++
+// for.cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  int x;
+
+  for (x = 0; x <= 10; x++) {
+    cout << x << endl;
+  }
+
+  cout << "lá vou eu!" << endl;
+}
+```
+
+> Os laços _while_ e _for_ são muito semelhantes.  
+> Geralmente, o laço _for_ é mais computacionalmente eficiente.
