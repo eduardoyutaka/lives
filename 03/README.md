@@ -49,13 +49,13 @@ false || false  // resultado: false
 
 #### Operações lógicas na vida real
 
-> Só vou para o parque se for domingo *E* fizer Sol.
+> Só vou para o parque se for domingo **E** fizer Sol.
 
-> Só peço desculpas se me pagarem *OU* se minha mãe mandar.
+> Só peço desculpas se me pagarem **OU** se minha mãe mandar.
 
 ## Arquitetura de von Neumann e o _stored-program computer_
 
-![arquitetura de von neumann](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
+![arquitetura de von neumann](https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg)
 
 A arquitetura de von Neumann descreve um computador digital com os seguintes componentes:
 
