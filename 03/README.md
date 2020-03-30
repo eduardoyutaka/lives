@@ -214,3 +214,14 @@ int main() {
 
 > Os laços _while_ e _for_ são muito semelhantes.  
 > Geralmente, o laço _for_ é mais computacionalmente eficiente.
+
+## Exemplos
+
+- [DDD](https://www.urionlinejudge.com.br/judge/pt/problems/view/1050)
+- [Números Pares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1059)
+- [Pares entre Cinco Números](https://www.urionlinejudge.com.br/judge/pt/problems/view/1065)
+
+# Exercícios
+
+- [Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067) (resolver com laço _for_)
+- [Mês](https://www.urionlinejudge.com.br/judge/pt/problems/view/1052) (resolver com _switch statement_)
