@@ -76,7 +76,7 @@ Um programa em execução, portanto, é uma sequência de instruções que resid
 
 ## O que é um _statement_
 
-> Um _statement_ é cada instrução individual em um programa.
+Um _statement_ é cada instrução individual em um programa.
 
 ```C++
 // Exemplos de statements
@@ -93,6 +93,7 @@ int main() {
 ## Controle de fluxo
 
 Durante a execução de um programa, o fluxo das instruções pode ser controlado.
+
 O _statement_ goto do C++ faz uma bifurcação incondicional para um endereço marcado por um _label_.
 
 ```C++
@@ -118,6 +119,7 @@ terceiro:
 ```
 
 Um dos maiores poderes da programação é poder executar tarefas repetidas rapidamente.
+
 O uso de bifurcaçoes condicionais permite a especificação de o que o programa deve fazer, quantas vezes, quando, e em quais circunstâncias.
 
 ```C++
