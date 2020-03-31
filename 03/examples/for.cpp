@@ -4,12 +4,11 @@
 using namespace std;
 
 int main() {
-  int x;
+	int x;
 
-  for (x = 0; x <= 10; x++) {
-    cout << x << endl;
-  }
+	for (x = 0; x <= 10; x++) {
+		cout << x << endl;
+	}
 
-  cout << "lá vou eu!" << endl;
+	cout << "termineei!" << endl;
 }
-

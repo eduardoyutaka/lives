@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
- goto primeiro; 
+ goto primeiro;
  
 segundo:
  cout << "segundo" << endl;

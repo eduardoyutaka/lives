@@ -4,12 +4,12 @@
 using namespace std;
 
 int main() {
-  int x = 0;
+	int x = 0;
 
-  while (x <= 10) {
-    cout << x << endl;
-    x++;
-  }
+	while (x <= 10) {
+		cout << x << endl;
+		x++; // x = x + 1 | x += 1
+	}
 
-  cout << "lá vou eu!" << endl;
+	cout << "terminei!" << endl;
 }

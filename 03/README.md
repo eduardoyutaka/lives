@@ -7,7 +7,7 @@
 
 #### Link da live 27/03/2020
 
-- `TODO`
+- [Live 30/03/2020](https://www.twitch.tv/videos/579311170)
 
 ## O que é uma operação?
 
